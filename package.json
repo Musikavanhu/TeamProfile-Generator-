@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator-",
+  "version": "1.0.0",
+  "description": "fun class stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musikavanhu/TeamProfile-Generator-.git"
+  },
+  "keywords": [
+    "git",
+    "swag",
+    "team",
+    "money"
+  ],
+  "author": "Tino Musikavanhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musikavanhu/TeamProfile-Generator-/issues"
+  },
+  "homepage": "https://github.com/Musikavanhu/TeamProfile-Generator-#readme"
+}
